@@ -1,0 +1,7 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  Equ_generator.cpp
+  main.cpp
+d:\tongji\学习\se\works\random_equation2.0\random_equation\main.cpp(52): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+  正在生成代码...
+  random_equation.vcxproj -> D:\Tongji\学习\SE\works\random_equation2.0\Debug\random_equation.exe
