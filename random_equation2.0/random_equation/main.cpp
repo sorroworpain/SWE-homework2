@@ -16,12 +16,12 @@ int main()
 	value_type right_answer[10];
 	value_type my_answer[10];
 	char conti = 'y';
-	int wrong_question[10];
-	int w = 0;
-	int s = 0;
+	int wrong_question[10]；
+
 
 	while(conti=='y') {
 		int w = 0;
+	        int s = 0;
 		clock_t b = clock();
 
 
